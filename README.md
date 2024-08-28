@@ -1,4 +1,4 @@
-# publications
+# Publications
 This repository contains list of my publications
 
 Chawla, S., Rockstroh, A., Lehman, M. et al. Gene expression based inference of cancer drug sensitivity. Nat Commun 13, 5680 (2022). 
